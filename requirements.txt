@@ -161,5 +161,7 @@ wrapt==2.2.1
 xxhash==3.7.0
 yarl==1.24.2
 zstandard==0.25.0
-llama-index-vector-stores-chroma
-llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma==0.5.5
+llama-index-embeddings-huggingface==0.7.0
+sentence-transformers==3.0.1
+transformers==4.44.2
