@@ -106,6 +106,7 @@ with st.sidebar:
 # -----------------------------
 st.title("📚 Company Knowledge Base Q&A")
 st.caption("Ask questions from your uploaded company documents.")
+st.caption("**This program run only PDF with text ( ❌Scan, ❌Photos PDF not allowd )")
 
 # Lazy load search modules to prevent initialization crashes
 from query_engine import retrieve_context
