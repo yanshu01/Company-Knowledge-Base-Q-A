@@ -2,7 +2,7 @@ streamlit==1.38.0
 chromadb==0.5.5
 pypdf==4.3.1
 python-dotenv==1.0.1
-cerebras_cloud_sdk==0.1.13
+cerebras_cloud_sdk==1.46.0
 llama-index-core==0.11.23
 llama-index-vector-stores-chroma==0.2.1
 llama-index-embeddings-huggingface==0.3.1
